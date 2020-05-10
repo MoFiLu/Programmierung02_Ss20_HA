@@ -1,4 +1,4 @@
-Excercise :  Waiting to be solved 
+Excercise :  Mission completed 
 Filtert nach Wörtern, die ein "auf" enthalten. In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
@@ -14,7 +14,7 @@ Excercise :  Mission completed
 Filtert nach Ausdrücken, die sowohl Klein- als auch Großbuchstauben enthalten. In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
-Excercise :  Waiting to be solved 
+Excercise :  Mission completed 
 Filtert nach Ausdrücken, die ein Whitespace (Leertaste, Zeilenumbruch, Tab) enthalten. In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
@@ -37,11 +37,11 @@ Excercise :  Mission completed
 Filtert nach Wörtern, die mit s oder S beginnen, aber nicht mit s aufhören. Diese Wörter dürfen nur aus Buchstaben bestehen und haben ab dem 2. Buchstaben nur kleine Buchstaben. In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
-Excercise :  Waiting to be solved 
+Excercise :  Mission completed 
 Filtert nach Namen. Diese Namen dürfen nur aus Buchstaben bestehen und können Leerzeichen enthalten. Ab dem 2. Buchstaben dürfen nur kleine Buchstaben. Der erste Buchstabe darf kleingeschrieben sein. Es dürfen keine zwei Leerzeichen aufeinander folgen. In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
-Excercise :  Waiting to be solved 
+Excercise :  Mission completed 
 Filtert nach Wörtern, die mit a, A, B, b, c, C, d oder D beginnen und mit n aufhören. Diese Wörter dürfen nur aus Buchstaben bestehen und haben ab dem 2. Buchstaben nur kleine Buchstaben.In Grün sind die Wörter aufgeführt, die ihr filtern solltet. In Rot sind Wörter aufgeführt, die ihr nicht filtern solltet.
 
 
