@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class ClientMain {
+public class ClientMain1 {
 
 	private boolean isRunning = true;
 
@@ -57,7 +57,7 @@ public class ClientMain {
 	}
 
 	public static void main(String[] args) {
-		ClientMain client = new ClientMain();
+		ClientMain1 client = new ClientMain1();
 		client.createClient();
 	}
 }
